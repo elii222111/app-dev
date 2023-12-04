@@ -1,5 +1,5 @@
 # app-dev
-##My first repository [^1]
+## My first repository 
 
 | First Name  | Last Name   | Course & Section |
 | ----------- | ----------- | ---------------- |
